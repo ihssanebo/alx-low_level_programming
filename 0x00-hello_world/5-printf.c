@@ -1,4 +1,4 @@
-#include <stdio.n>
+#include <stdio.h>
 /**
  * main - A program that prints a linee using print f function
  * Return: 0 (Success)
